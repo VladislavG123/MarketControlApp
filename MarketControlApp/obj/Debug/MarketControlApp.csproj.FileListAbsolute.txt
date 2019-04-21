@@ -1,0 +1,16 @@
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\MarketControlApp.exe.config
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\MarketControlApp.exe
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\MarketControlApp.pdb
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\EntityFramework.dll
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\EntityFramework.xml
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.csprojAssemblyReference.cache
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.csproj.CopyComplete
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.exe
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.pdb
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.Migrations.Initial.resources
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\MarketControlApp\MarketControlApp\obj\Debug\MarketControlApp.Migrations.Addnullvalues.resources
